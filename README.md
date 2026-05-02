@@ -15,7 +15,7 @@
 
 ---
 
-I'm a first-year CS student at the University of Waterloo. I like building things that actually work — ML models, full-stack apps, data pipelines. I've interned at Compunnel Canada and Red Circle Inc, co-authored a published research paper on ML-driven academic performance prediction, and I'm always looking for the next interesting problem to solve.
+I'm a first-year CS student at the University of Waterloo. I like building things that actually work - ML models, full-stack apps, data pipelines. I've interned at Compunnel Canada and Red Circle Inc, co-authored a published research paper on ML-driven academic performance prediction, and I'm always looking for the next interesting problem to solve.
 
 ---
 
@@ -25,16 +25,16 @@ I'm a first-year CS student at the University of Waterloo. I like building thing
 
 | Project | Stack | Notes |
 |---|---|---|
-| [ProtoMind](https://github.com/Ishvirchopra35/ProtoMind) | Python, LangGraph, Gemini API, FastAPI, PyBullet | Multi-agent pipeline that converts a plain-English prompt into CAD files, Arduino firmware, a sourced parts list, and a physics simulation — with an auto-redesign loop that retries up to 3× on instability |
-| [ASL Classifier](https://github.com/Ishvirchopra35/ASL-Classifier) | Python, OpenCV, MediaPipe, Scikit-learn | Real-time ASL alphabet classifier for all 26 letters — 99% accuracy trained on 5,200+ custom images using RandomForest with MediaPipe hand tracking |
-| [Digit Classifier](https://github.com/Ishvirchopra35/MNIST-Digit-Classifier) | Python, PyTorch, NumPy | 3-layer feedforward neural net on MNIST with ReLU activations and Adam optimizer — 94%+ accuracy |
+| [ProtoMind](https://github.com/Ishvirchopra35/ProtoMind) | Python, LangGraph, Gemini API, FastAPI, PyBullet | Multi-agent pipeline that converts a plain-English prompt into CAD files, Arduino firmware, a sourced parts list, and a physics simulation - with an auto-redesign loop that retries up to 3× on instability |
+| [ASL Classifier](https://github.com/Ishvirchopra35/ASL-Classifier) | Python, OpenCV, MediaPipe, Scikit-learn | Real-time ASL alphabet classifier for all 26 letters - 99% accuracy trained on 5,200+ custom images using RandomForest with MediaPipe hand tracking |
+| [Digit Classifier](https://github.com/Ishvirchopra35/MNIST-Digit-Classifier) | Python, PyTorch, NumPy | 3-layer feedforward neural net on MNIST with ReLU activations and Adam optimizer - 94%+ accuracy |
 
 **Full-Stack**
 
 | Project | Stack | Notes |
 |---|---|---|
-| [Wrap It Up](https://github.com/Ishvirchopra35/wrap-it-up) — [live](https://wrapitupapp.vercel.app/) | TypeScript, Next.js, Supabase, Groq AI | Assignment tracker with 0–100 panic scoring, AI syllabus parsing (PDF/image), 7-day study plans, and 24hr deadline conflict detection |
-| [E-Commerce App](https://github.com/Ishvirchopra35/E-Commerce-App) | JavaScript, Next.js, MongoDB, Stripe | Full-stack store with dynamic products, Stripe checkout, and persistent cart — optimized API routes cut backend response time ~20% |
+| [Wrap It Up](https://github.com/Ishvirchopra35/wrap-it-up) - [live](https://wrapitupapp.vercel.app/) | TypeScript, Next.js, Supabase, Groq AI | Assignment tracker with 0–100 panic scoring, AI syllabus parsing (PDF/image), 7-day study plans, and 24hr deadline conflict detection |
+| [E-Commerce App](https://github.com/Ishvirchopra35/E-Commerce-App) | JavaScript, Next.js, MongoDB, Stripe | Full-stack store with dynamic products, Stripe checkout, and persistent cart - optimized API routes cut backend response time ~20% |
 
 **Data & Analytics**
 
@@ -92,4 +92,4 @@ I'm a first-year CS student at the University of Waterloo. I like building thing
 
 ---
 
-<p align="center">Open to internships, collaborations, and interesting projects — feel free to reach out.</p>
+<p align="center">Open to internships, collaborations, and interesting projects - feel free to reach out.</p>
