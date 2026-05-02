@@ -82,12 +82,10 @@ I'm a first-year CS student at the University of Waterloo. I like building thing
 
 ---
 
-### Stats
+### Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishvirchopra35&show_icons=true&theme=tokyonight&hide_border=true" height="155"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishvirchopra35&layout=compact&theme=tokyonight&hide_border=true" height="155"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishvirchopra35&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
