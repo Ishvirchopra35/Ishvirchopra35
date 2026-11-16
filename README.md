@@ -41,7 +41,7 @@ I'm a second-year CS student at the University of Waterloo. I like building thin
 
 | Project | Stack | Notes |
 |---|---|---|
-| Watopoly | C++, Observer, Decorator, Strategy patterns | Waterloo-themed Monopoly game with a 40-square board, 2-6 players, trading, mortgages, auctions, and save/load - plus a testing mode with controllable dice for reproducible replays (code not available due to university policy) |
+| Watopoly | C++, Observer, Decorator patterns | Waterloo-themed Monopoly game with a 40-square board, 2-6 players, trading, mortgages, auctions, and save/load - plus a testing mode with controllable dice for reproducible replays (code not available due to university policy) |
 
 **Data & Analytics**
 
