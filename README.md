@@ -15,7 +15,7 @@
 
 ---
 
-I'm a first-year CS student at the University of Waterloo. I like building things that actually work - ML models, full-stack apps, data pipelines. I've interned at Compunnel Canada and Red Circle Inc, co-authored a published research paper on ML-driven academic performance prediction, and I'm always looking for the next interesting problem to solve.
+I'm a second-year CS student at the University of Waterloo. I like building things that actually work - ML models, full-stack apps, data pipelines. I'm currently a software developer intern at the National Research Council of Canada, building AI and data tools for a health misinformation research project, and I've previously interned at Compunnel Canada and Red Circle Inc. I've also co-authored a published research paper on ML-driven academic performance prediction, and I'm always looking for the next interesting problem to solve.
 
 ---
 
@@ -33,8 +33,15 @@ I'm a first-year CS student at the University of Waterloo. I like building thing
 
 | Project | Stack | Notes |
 |---|---|---|
+| [Vantage](https://github.com/Ishvirchopra35/vantage) - [live](https://getvantageai.vercel.app/) | TypeScript, Next.js, Supabase, Gemini API, Chrome MV3 | AI job-search platform with resume tailoring that preserves the user's .docx formatting, ATS scoring, cover letters, and interview prep - plus a Chrome extension that auto-fills Workday, Greenhouse, and Lever forms and never auto-submits |
 | [Wrap It Up](https://github.com/Ishvirchopra35/wrap-it-up) - [live](https://wrapitupapp.vercel.app/) | TypeScript, Next.js, Supabase, Groq AI | Assignment tracker with 0–100 panic scoring, AI syllabus parsing (PDF/image), 7-day study plans, and 24hr deadline conflict detection |
 | [E-Commerce App](https://github.com/Ishvirchopra35/E-Commerce-App) | JavaScript, Next.js, MongoDB, Stripe | Full-stack store with dynamic products, Stripe checkout, and persistent cart - optimized API routes cut backend response time ~20% |
+
+**Software Engineering**
+
+| Project | Stack | Notes |
+|---|---|---|
+| Watopoly | C++, Observer, Decorator, Strategy patterns | Waterloo-themed Monopoly game with a 40-square board, 2-6 players, trading, mortgages, auctions, and save/load - plus a testing mode with controllable dice for reproducible replays (code not available due to university policy) |
 
 **Data & Analytics**
 
@@ -54,6 +61,7 @@ I'm a first-year CS student at the University of Waterloo. I like building thing
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
